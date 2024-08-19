@@ -1,2 +1,2 @@
-# krishnapemmasani.github.io
+# krishnapemmasani.com
 Personal website
